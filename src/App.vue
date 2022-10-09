@@ -7,12 +7,10 @@
 </template>
 
 <script>
-  import Sidebar from '@/layout/components/Sidebar.vue'
-  import AppMain from '@/layout/components/AppMain.vue'
+  import Sidebar from '@/components/Sidebar.vue'
 	export default {
 		components: {
 			Sidebar,
-			AppMain
 		}
 	}
 </script>
